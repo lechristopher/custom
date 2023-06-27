@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet name="VML" description="" preview="code" type="wrap">
+<insertText location="beforeSelection">
+<![CDATA[<!--[if gte mso 9]>
+              <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:165px;height:42px;">
+                <v:fill type="tile" src="images/VML_trg_cta_bg.jpg" color="#818181" />
+                <v:textbox inset="0,0,0,0">
+              <![endif]-->
+                <div></div>
+                <!--[if gte mso 9]>
+                </v:textbox>
+              </v:rect>
+              <![endif]--> ]]>
+</insertText>
+<insertText location="afterSelection"><![CDATA[]]>
+</insertText>
+</snippet>

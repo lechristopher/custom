@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="Superscript" description="" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<span style="font-size:70%; vertical-align:text-top;">]]></insertText><insertText location="afterSelection"><![CDATA[</span>]]></insertText></snippet>

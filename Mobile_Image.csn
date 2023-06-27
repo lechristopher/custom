@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<snippet name="Mobile Image" description="" preview="code" type="wrap">
+<insertText location="beforeSelection">
+<![CDATA[<!-- mobile image -->
+    <div class="imghide" style="max-height: 0px; font-size: 0; display: none; overflow:hidden;">
+    <table width="0" height="0" border="0" cellspacing="0" cellpadding="0" style="max-height: 0px; font-size: 0; display: none; overflow:hidden;" class="imghide widthXX heightXX center">
+  <tr>
+    <td class="widthXX heightXX center"><img src="images/image_mbl.jpg" width="0" height="0" alt="" class="imghide widthXX heightXX centercenter" /></td>
+  </tr>
+</table>
+    </div>
+    <!--/mobile image -->]]>
+</insertText>
+<insertText location="afterSelection"><![CDATA[]]>
+</insertText>
+</snippet>

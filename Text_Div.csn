@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="Text Div" description="" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<div style="font-family: Arial, Helvetica, sans-serif; color:#ffffff; font-size:12px; line-height:14px; font-weight:normal;">]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

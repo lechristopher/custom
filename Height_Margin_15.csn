@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<snippet name="Height Margin 15" description="" preview="code" type="wrap">
+<insertText location="beforeSelection">
+<![CDATA[<!-- margin --><table border="0" cellpadding="0" cellspacing="0"><tr><td height="15" style="line-height:15px; font-size:0px;"><img src="images/sp.png" width="1" height="15" alt="" border="0" style="display:block;" /></td></tr></table><!--/margin -->]]>
+</insertText>
+<insertText location="afterSelection"><![CDATA[]]>
+</insertText>
+</snippet>
